@@ -48,7 +48,7 @@ La aplicación te mostrará un menú con las siguientes opciones:
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Tu Nombre](framirez.d85@gmail.com).
+Este proyecto fue desarrollado por [Felipe Ramirez Diaz](framirez.d85@gmail.com).
 
 
 ---
